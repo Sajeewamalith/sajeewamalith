@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sajeewa Malith</h1>
 <h3 align="center">A passionate Android Developer from Sri Lanka</h3>
-
+---
 - 🌱 I’m currently learning **Android, Java, Kotlin, Firebase**
 
 - 💬 Ask me about **Android, Java, Kotlin, Firebase**
