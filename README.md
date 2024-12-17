@@ -7,9 +7,9 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.gifer.com/JEWy.gif">
 </a>
 
-- 🌱 I’m currently learning **Android, Java, Kotlin, Firebase**
+- 🌱 I’m currently learning **Android, Jectpack Compose, Kotlin, Java, Firebase**
 
-- 💬 Ask me about **Android, Java, Kotlin, Firebase**
+- 💬 Ask me about **Android, Java, Kotlin, Jectpack Compose, Firebase**
 
 - 📫 How to reach me **hdsmalith@gmail.com**
 
