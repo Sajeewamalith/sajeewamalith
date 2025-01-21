@@ -4,7 +4,7 @@
 ---
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.gifer.com/JEWy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://images.app.goo.gl/jPXSCi63JAxenUW19">
 </a>
 
 - 🌱 I’m currently learning **Android, Jectpack Compose, Kotlin**
