@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajeewa Malith</h1>
-<h3 align="center">A passionate Android Developer from Sri Lanka</h3>
+<h3 align="center">A passionate Software Developer from Sri Lanka</h3>
 
 ---
 
